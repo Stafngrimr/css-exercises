@@ -1,0 +1,22 @@
+/* style.css for the second css exercise */
+
+.odd {
+  background-color: #f25ca9;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#two {
+  color: #3a63ea;
+  font-size: 36px;
+}
+
+#three {
+  font-size: 24px;
+}
+
+#four {
+  background-color: #73fc71;
+  font-size: 24px;
+  font-weight: bold;
+
+}
