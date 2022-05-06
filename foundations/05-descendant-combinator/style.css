@@ -1,0 +1,25 @@
+/* stylesheet for fifth css exercise */
+
+.container p {
+  background-color: yellow;
+  color: red;
+  font-size: 20px;
+  text-align: center;
+}
+
+
+/* can also..
+
+.container .text {
+  etcetc
+}
+
+or even..
+
+div p {
+  etcetc
+}
+
+Works on element type as well as class selector
+
+*/
